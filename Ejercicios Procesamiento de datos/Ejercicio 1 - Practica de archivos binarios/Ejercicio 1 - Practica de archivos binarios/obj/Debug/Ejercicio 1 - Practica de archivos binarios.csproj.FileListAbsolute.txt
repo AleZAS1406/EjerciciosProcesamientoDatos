@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\Ejercicio 1 - Practica de archivos binarios\Ejercicio 1 - Practica de archivos binarios\bin\Debug\Ejercicio 1 - Practica de archivos binarios.exe.config
+C:\Users\Usuario\source\repos\Ejercicio 1 - Practica de archivos binarios\Ejercicio 1 - Practica de archivos binarios\bin\Debug\Ejercicio 1 - Practica de archivos binarios.exe
+C:\Users\Usuario\source\repos\Ejercicio 1 - Practica de archivos binarios\Ejercicio 1 - Practica de archivos binarios\bin\Debug\Ejercicio 1 - Practica de archivos binarios.pdb
+C:\Users\Usuario\source\repos\Ejercicio 1 - Practica de archivos binarios\Ejercicio 1 - Practica de archivos binarios\obj\Debug\Ejercicio 1 - Practica de archivos binarios.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejercicio 1 - Practica de archivos binarios\Ejercicio 1 - Practica de archivos binarios\obj\Debug\Ejercicio 1 - Practica de archivos binarios.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejercicio 1 - Practica de archivos binarios\Ejercicio 1 - Practica de archivos binarios\obj\Debug\Ejercicio 1 - Practica de archivos binarios.exe
+C:\Users\Usuario\source\repos\Ejercicio 1 - Practica de archivos binarios\Ejercicio 1 - Practica de archivos binarios\obj\Debug\Ejercicio 1 - Practica de archivos binarios.pdb

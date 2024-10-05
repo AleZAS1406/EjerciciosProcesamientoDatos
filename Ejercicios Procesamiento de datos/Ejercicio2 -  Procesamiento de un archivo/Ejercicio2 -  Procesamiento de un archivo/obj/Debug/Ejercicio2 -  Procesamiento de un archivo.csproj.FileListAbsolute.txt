@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\Ejercicio2 -  Procesamiento de un archivo\Ejercicio2 -  Procesamiento de un archivo\bin\Debug\Ejercicio2 -  Procesamiento de un archivo.exe.config
+C:\Users\Usuario\source\repos\Ejercicio2 -  Procesamiento de un archivo\Ejercicio2 -  Procesamiento de un archivo\bin\Debug\Ejercicio2 -  Procesamiento de un archivo.exe
+C:\Users\Usuario\source\repos\Ejercicio2 -  Procesamiento de un archivo\Ejercicio2 -  Procesamiento de un archivo\bin\Debug\Ejercicio2 -  Procesamiento de un archivo.pdb
+C:\Users\Usuario\source\repos\Ejercicio2 -  Procesamiento de un archivo\Ejercicio2 -  Procesamiento de un archivo\obj\Debug\Ejercicio2 -  Procesamiento de un archivo.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejercicio2 -  Procesamiento de un archivo\Ejercicio2 -  Procesamiento de un archivo\obj\Debug\Ejercicio2 -  Procesamiento de un archivo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejercicio2 -  Procesamiento de un archivo\Ejercicio2 -  Procesamiento de un archivo\obj\Debug\Ejercicio2 -  Procesamiento de un archivo.exe
+C:\Users\Usuario\source\repos\Ejercicio2 -  Procesamiento de un archivo\Ejercicio2 -  Procesamiento de un archivo\obj\Debug\Ejercicio2 -  Procesamiento de un archivo.pdb
